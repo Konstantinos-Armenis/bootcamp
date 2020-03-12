@@ -1,0 +1,6 @@
+C:\Users\Kostas Armenis\source\repos\ASKHSH 2 (2)\ASKHSH 2 (2)\bin\Debug\ASKHSH 2 (2).exe.config
+C:\Users\Kostas Armenis\source\repos\ASKHSH 2 (2)\ASKHSH 2 (2)\bin\Debug\ASKHSH 2 (2).exe
+C:\Users\Kostas Armenis\source\repos\ASKHSH 2 (2)\ASKHSH 2 (2)\bin\Debug\ASKHSH 2 (2).pdb
+C:\Users\Kostas Armenis\source\repos\ASKHSH 2 (2)\ASKHSH 2 (2)\obj\Debug\ASKHSH 2 (2).csprojAssemblyReference.cache
+C:\Users\Kostas Armenis\source\repos\ASKHSH 2 (2)\ASKHSH 2 (2)\obj\Debug\ASKHSH 2 (2).exe
+C:\Users\Kostas Armenis\source\repos\ASKHSH 2 (2)\ASKHSH 2 (2)\obj\Debug\ASKHSH 2 (2).pdb
